@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-vazirmatn), "Tahoma", "Segoe UI", sans-serif;
+}
+
+html {
+  color-scheme: light;
+}
+
+* {
+  scrollbar-width: thin;
+}
+
